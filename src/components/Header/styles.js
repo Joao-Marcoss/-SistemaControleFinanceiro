@@ -6,6 +6,7 @@ export const HeaderModi = styled.header`
   align-items: center;
   max-width: 100%;
   height: 150px;
-  background-color: #3b83bd;
+  background-color: #3b8c66;
   font-size: 2rem;
+  color: white;
 `;
